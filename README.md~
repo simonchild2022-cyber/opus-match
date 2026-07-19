@@ -1,0 +1,48 @@
+# The Opus Match – Architecture
+
+## Vision
+
+The Opus Match is a premium mobile match-3 puzzle game inspired by cue sports, luxury interiors and elegant design.
+
+## Core Systems
+
+* Board Engine
+* Match Detection
+* Gravity Engine
+* Level Loader
+* Power-Up System
+* Estate Hub
+* Save System
+* Audio Manager
+* UI Manager
+
+## Design Principles
+
+* Premium over flashy
+* Mobile-first
+* Data-driven levels
+* Modular code
+* Fast loading
+* Easy to expand
+
+## Development Milestones
+
+### Commit 001
+
+Repository bootstrap
+
+### Commit 002
+
+Unity project scaffold
+
+### Commit 003
+
+Board engine
+
+### Commit 004
+
+Match detection
+
+### Commit 005
+
+Playable prototype
